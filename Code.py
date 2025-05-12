@@ -46,7 +46,7 @@ print("Last item of a list:", list[-5])
 # * Print the number in the list
 
 numbers =[10,20,30,40,50,60,70,80,90]
-print("Number in the list:", numbers)
+print("Number in the list:", len(numbers))
 
 
 
